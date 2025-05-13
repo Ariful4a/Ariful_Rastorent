@@ -1,0 +1,14 @@
+.fearted-item {
+  background-image: url("../../../../assets/home/featured.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.fearted-item::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* Overlay opacity */
+  z-index: -1;
+}
