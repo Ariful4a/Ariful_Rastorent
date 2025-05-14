@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Link } from "react-router";
 
 const Header = () => {
@@ -11,7 +11,7 @@ const Header = () => {
         <Link to={'/menuPage'}>Our Menu</Link>
       </li>
       <li>
-        <a>Item 3</a>
+        <Link to={'/orderPage'}>Order Page</Link>
       </li>
     </>
   );
