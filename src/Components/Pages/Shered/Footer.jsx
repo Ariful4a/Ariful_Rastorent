@@ -1,4 +1,19 @@
 const Footer = () => {
+
+   function updateTime() {
+        const now = new Date();
+        const date = now.toLocaleDateString();
+        const time = now.toLocaleTimeString();
+        document.getElementById('time').textContent = `${date}, ${time}`;
+    }
+
+    updateTime();
+    setInterval(updateTime, 1000);
+
+
+
+
+
   return (
     <section>
       <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10">
@@ -19,6 +34,7 @@ const Footer = () => {
             <br />
             Providing reliable tech since 1992
           </p>
+          <p id="time">12:00:00</p>
         </aside>
         <nav>
           <h6 className="footer-title">Social</h6>
@@ -67,6 +83,7 @@ const Footer = () => {
             </p>
           </aside>
         </footer>
+         <script src="DateAndTime.js"></script>
     </section>
   );
 };

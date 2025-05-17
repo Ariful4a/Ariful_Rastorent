@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+
 import PopularItems from "../Shered/PopularItems/PopularItems";
 import Cover from "./Cover";
 
@@ -11,9 +11,6 @@ const MenuCetegory = ({ items, title, img }) => {
           <PopularItems key={item._id} item={item}></PopularItems>
         ))}
       </div>
-      <Link to={`/orderPage/${title}`}>
-        <button className="btn btn-outline border-0 border-b-4 mt-5">Order now</button>
-      </Link>
     </div>
   );
 };

@@ -1,33 +1,41 @@
-import { useEffect, useMemo, useState } from "react";
+
 import Subhading from "../../Shered/Subhading";
 import PopularItems from "../../Shered/PopularItems/PopularItems";
 import useMenu from "../../../../Hooks/useMenu";
+import PestControlCard from "../../Shered/PopularItems/PetsControl";
+import PestDetails from "../PestDetails/PestDetails";
+import { Link } from "react-router";
 
 const Menu = () => {
   const [menu] = useMenu();
-  const popular = menu.filter(item => item.category === 'popular')
-  // const [menu, setMenu] = useState([]);
-
-  // useEffect(() => {
-  //   fetch("menu.json")
-  //     .then((res) => res.json())
-  //     .then((data) => {
-  //       const popularItems = data.filter((item) => item.category === "popular");
-  //       setMenu(popularItems);
-  //     });
-  // }, []);
-
+  const crops = menu.filter(item => item.category === 'crop_home');
+  const pestControl = menu.filter(item => item.category === 'pest');
 
   return (
     <div>
       <Subhading
-        subHading={"Check it out"}
-        hading={"form our menu"}
+        subHading={"Bangladesh Agriculture"}
+        hading={"Crop Details"}
       ></Subhading>
 
       <div className="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto my-10">
-        {popular.map((item) => (
+        {crops.map((item) => (
           <PopularItems key={item._id} item={item}></PopularItems>
+        ))}
+      </div>
+      <div className="flex items-center justify-center">
+        <Link>
+        <button className="btn btn-primary">More Information</button>
+        </Link>
+      </div>
+
+        {/* Pest control  */}
+        <div>
+          <PestDetails></PestDetails>
+        </div>
+       <div className="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto my-10">
+        {pestControl.map((item) => (
+          <PestControlCard key={item._id} item={item}></PestControlCard>
         ))}
       </div>
     </div>

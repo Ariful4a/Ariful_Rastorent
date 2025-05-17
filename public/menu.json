@@ -1,458 +1,548 @@
 [
-    {
-        "_id": "642c155b2c4774f05c36eeaa",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "salad",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb9",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "drinks",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7c",
-        "name": "Escalope de Veau",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee88",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7a",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8c",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee94",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "pizza",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9e",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea6",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "salad",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeaf",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "soup",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee89",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8a",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee96",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee81",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "offered",
-        "price": 10.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee84",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
-        "category": "dessert",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea4",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "salad",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea5",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "salad",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee87",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee83",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "offered",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7f",
-        "name": "Roasted Pork Belly",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea8",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "salad",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeba",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "drinks",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee80",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
-        "category": "offered",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee90",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "dessert",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb0",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "soup",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8d",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8e",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea7",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "salad",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee99",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb3",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb5",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb6",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "soup",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb8",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "soup",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7e",
-        "name": "Fish Parmentier",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8b",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8f",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee91",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "dessert",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee97",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "pizza",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea0",
-        "name": "Roasted Pork Belly",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea9",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "salad",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee85",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 10.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee93",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "pizza",
-        "price": 10.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee95",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "pizza",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9b",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb7",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9c",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9d",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeac",
-        "name": "Roasted Pork Belly",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "salad",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb4",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "soup",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee98",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee82",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "offered",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee86",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9a",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeab",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "salad",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb1",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eead",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
-        "category": "soup",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeae",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "soup",
-        "price": 10.5
-    }
+  {
+    "id": "crop-001",
+    "name": "ধান",
+    "description": "বাংলাদেশের প্রধান খাদ্যশস্য, বর্ষাকালে চাষ হয়।",
+    "image": "https://i.ibb.co/whCJZnyh/c7.jpg",
+    "category": "crop_home",
+    "price": 30,
+    "season": "বর্ষা",
+    "protection_methods": [
+      "নিয়মিত আগাছা পরিষ্কার করা",
+      "জৈব সার ব্যবহার",
+      "পানির সঠিক নিষ্কাশন"
+    ]
+  },
+  {
+    "id": "crop-002",
+    "name": "গম",
+    "description": "শীতকালীন মৌসুমের শস্য, পুষ্টিকর খাদ্য।",
+    "image": "https://i.ibb.co/9C3bKB6/cr6.jpg",
+    "category": "crop_home",
+    "price": 25,
+    "season": "শীত",
+    "protection_methods": [
+      "বীজ শোধন করা",
+      "রোগ প্রতিরোধী জাত ব্যবহার",
+      "অতিরিক্ত পানি জমতে না দেওয়া"
+    ]
+  },
+  {
+    "id": "crop-003",
+    "name": "আলু",
+    "description": "জনপ্রিয় শীতকালীন সবজি।",
+    "image": "https://i.ibb.co/vvfY7pyM/c5.jpg",
+    "category": "crop_home",
+    "price": 22,
+    "season": "শীত",
+    "protection_methods": [
+      "আবহাওয়া উপযোগী জাত ব্যবহার",
+      "ক্ষেত আগাছামুক্ত রাখা",
+      "দ্রুত পানি নিষ্কাশনের ব্যবস্থা"
+    ]
+  },
+  {
+    "id": "crop-004",
+    "name": "বেগুন",
+    "description": "সারা বছর চাষযোগ্য জনপ্রিয় সবজি।",
+    "image": "https://i.ibb.co/svRLLvpD/cr4.jpg",
+    "category": "crop_home",
+    "price": 20,
+    "season": "সারা বছর",
+    "protection_methods": [
+      "ফল ছিদ্রকারী পোকার বিরুদ্ধে ফেরোমোন ফাঁদ",
+      "জৈব কীটনাশক প্রয়োগ",
+      "নিয়মিত মাঠ পরিদর্শন"
+    ]
+  },
+  {
+    "id": "crop-005",
+    "name": "টমেটো",
+    "description": "সবার প্রিয় সবজি, রং এবং স্বাদে সমৃদ্ধ।",
+    "image": "https://i.ibb.co/yBWxS14M/cr3.jpg",
+    "category": "crop",
+    "price": 18,
+    "season": "বসন্ত থেকে শরৎ",
+    "protection_methods": [
+      "মাকড়সা নিয়ন্ত্রণে সাবান স্প্রে",
+      "বিষাক্ত কীটনাশক প্রয়োগ সীমিত ব্যবহার",
+      "নিয়মিত মাঠ পরিস্কার"
+    ]
+  },
+  {
+    "id": "crop-006",
+    "name": "মরিচ",
+    "description": "ঝাল স্বাদের সবজি, প্রায় সারা বছর চাষ হয়।",
+    "image": "https://i.ibb.co/4ndnZk5r/crop2.jpg",
+    "category": "crop",
+    "price": 25,
+    "season": "বসন্ত থেকে শরৎ",
+    "protection_methods": [
+      "রোগ প্রতিরোধী জাত নির্বাচন",
+      "নিয়মিত পানি প্রয়োগ",
+      "জৈব কীটনাশক প্রয়োগ"
+    ]
+  },
+  {
+    "id": "pest-001",
+    "name": "ধানের পানচোষা পোকা",
+    "description": "ধান গাছের রস চুষে গাছ দুর্বল করে।",
+    "image": "https://i.ibb.co/k6c77fqQ/istockphoto-1345510463-612x612.jpg",
+    "category": "pest_control",
+    "affected_crops": ["ধান"],
+    "protection_methods": [
+      "নিম তেল স্প্রে করা",
+      "আলোক ফাঁদ ব্যবহার",
+      "কার্বোফুরান জাতীয় কীটনাশক প্রয়োগ"
+    ]
+  },
+  {
+    "id": "pest-002",
+    "name": "ধানের শস্যকীট",
+    "description": "ধানের পাতা ক্ষতি করে।",
+    "image": "https://i.ibb.co/7JKJ5tJy/istockphoto-1698673640-612x612.jpg",
+    "category": "pest_control",
+    "affected_crops": ["ধান"],
+    "protection_methods": [
+      "নিয়মিত আগাছা পরিষ্কার",
+      "জৈব কীটনাশক প্রয়োগ",
+      "ক্ষেত পরিদর্শন"
+    ]
+  },
+  {
+    "id": "pest-003",
+    "name": "আলুর পাতা মরা রোগ",
+    "description": "আলুর পাতায় কালো দাগ দেখা দেয়, গাছ শুড়ে পড়ে।",
+    "image": "https://i.ibb.co/vxC4Ny9X/istockphoto-958953510-612x612.jpg",
+    "category": "pest_control",
+    "affected_crops": ["আলু"],
+    "protection_methods": [
+      "ম্যাঙ্কোজেব স্প্রে",
+      "রোগমুক্ত বীজ ব্যবহার",
+      "ক্ষেত পানি নিষ্কাশন"
+    ]
+  },
+  {
+    "id": "pest-004",
+    "name": "বেগুনের ফল ছিদ্রকারী পোকা",
+    "description": "বেগুনের ফলের মধ্যে ঢুকে ক্ষতি করে।",
+    "image": "https://i.ibb.co/j9hRbh34/istockphoto-1124691980-612x612.jpg",
+    "category": "pest_control",
+    "affected_crops": ["বেগুন"],
+    "protection_methods": [
+      "ফল তোলা ও নষ্ট করা",
+      "ফেরোমোন ফাঁদ ব্যবহার",
+      "বায়োলজিক্যাল কীটনাশক"
+    ]
+  },
+  {
+    "id": "pest-005",
+    "name": "টমেটোর মাকড়সা",
+    "description": "পাতায় হলদে দাগ ফেলে গাছ দুর্বল করে।",
+    "image": "https://i.ibb.co/HTxv1sjN/istockphoto-693301204-612x612.jpg",
+    "category": "pest_control",
+    "affected_crops": ["টমেটো"],
+    "protection_methods": [
+      "সাবান মিশ্রিত পানি স্প্রে",
+      "নিয়মিত পানি ছিটানো",
+      "সার ব্যালেন্স করা"
+    ]
+  },
+  {
+    "id": "crop-007",
+    "name": "কলা",
+    "description": "বাংলাদেশে জনপ্রিয় ফল, সারা বছর পাওয়া যায়।",
+    "image": "https://i.ibb.co/SDks2Yxg/istockphoto-1494763483-612x612.jpg",
+    "category": "crop",
+    "price": 40,
+    "season": "সারা বছর",
+    "protection_methods": [
+      "বিভিন্ন রোগ থেকে বাঁচাতে নিয়মিত স্প্রে",
+      "সঠিক সেচ ব্যবস্থা",
+      "জীবাণুমুক্ত করা"
+    ]
+  },
+  {
+    "id": "crop-008",
+    "name": "পেঁয়াজ",
+    "description": "সারা বছর চাষযোগ্য মশলা জাত।",
+    "image": "https://i.ibb.co/DDRxfBDZ/istockphoto-1137337031-612x612.jpg",
+    "category": "crop",
+    "price": 28,
+    "season": "বসন্ত ও শীত",
+    "protection_methods": [
+      "রোগ প্রতিরোধী জাত ব্যবহার",
+      "সঠিক সার প্রয়োগ",
+      "ক্ষেত পরিষ্কার রাখা"
+    ]
+  },
+  {
+    "id": "crop-009",
+    "name": "লেবু",
+    "description": "সাইট্রাস জাতের ফল, ভিটামিন সি সমৃদ্ধ।",
+    "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+    "category": "crop",
+    "price": 35,
+    "season": "গ্রীষ্মকাল",
+    "protection_methods": [
+      "রোগ নিয়ন্ত্রণে নিয়মিত স্প্রে",
+      "পরিষ্কার মাঠ ও সঠিক সেচ",
+      "অতিরিক্ত পানি এড়ানো"
+    ]
+  },
+  {
+    "id": "crop-009",
+    "name": "লেবু",
+    "description": "সাইট্রাস জাতের ফল, ভিটামিন সি সমৃদ্ধ।",
+    "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+    "category": "crop",
+    "price": 35,
+    "season": "গ্রীষ্মকাল",
+    "protection_methods": [
+      "রোগ নিয়ন্ত্রণে নিয়মিত স্প্রে",
+      "পরিষ্কার মাঠ ও সঠিক সেচ",
+      "অতিরিক্ত পানি এড়ানো"
+    ]
+  },
+  {
+    "id": "crop-010",
+    "name": "সাবজী",
+    "description": "বিভিন্ন ধরনের সবজি, স্বাস্থ্যের জন্য উপকারী।",
+    "image": "https://i.ibb.co/vCXqxvJM/istockphoto-1409236261-612x612.jpg",
+    "category": "crop",
+    "price": 15,
+    "season": "সারা বছর",
+    "protection_methods": [
+      "জৈব কীটনাশক ব্যবহার",
+      "সঠিক পানি সরবরাহ",
+      "ক্ষেত পরিষ্কার রাখা"
+    ]
+  },
+  {
+    "id": "crop-011",
+    "name": "শশা",
+    "description": "গ্রীষ্মকালের জনপ্রিয় শাকসবজি।",
+    "image": "https://i.ibb.co/6cvh4Nyx/istockphoto-478377196-612x612.jpg",
+    "category": "crop",
+    "price": 12,
+    "season": "গ্রীষ্ম",
+    "protection_methods": [
+      "পোকামাকড় নিয়ন্ত্রণে জৈব স্প্রে",
+      "সঠিক সেচ ব্যবস্থা",
+      "ক্ষেত পরিস্কার রাখা"
+    ]
+  },
+  {
+  "id": "pest-006",
+  "name": "পেঁয়াজের পোকা",
+  "description": "পেঁয়াজের গাছের পাতায় ছিদ্র সৃষ্টি করে এবং গাছ দুর্বল করে।",
+  "image": "https://i.ibb.co/xqRtYXYL/istockphoto-1282723654-612x612.jpg",
+  "category": "pest",
+  "affected_crops": ["পেঁয়াজ"],
+  "protection_methods": [
+    "পরিষ্কার মাঠ রাখা",
+    "জৈব কীটনাশক প্রয়োগ",
+    "সঠিক সময়ে কীটনাশক স্প্রে"
+  ]
+},
+{
+  "id": "pest-007",
+  "name": "মরিচের গাছের পোকা",
+  "description": "মরিচের পাতায় ক্ষতি করে, ফলের মান কমিয়ে দেয়।",
+  "image": "https://i.ibb.co/BVDNh1TG/istockphoto-1698797469-612x612.jpg",
+  "category": "pest",
+  "affected_crops": ["মরিচ"],
+  "protection_methods": [
+    "ফেরোমোন ফাঁদ ব্যবহার",
+    "জৈব কীটনাশক স্প্রে",
+    "পরিষ্কার মাঠ রাখা"
+  ]
+},
+{
+  "id": "pest-008",
+  "name": "টমেটোর ফল ছিদ্রকারী পোকা",
+  "description": "টমেটোর মধ্যে ঢুকে ক্ষতি করে, ফল পচে যায়।",
+  "image": "https://i.ibb.co/MDkRZ5SS/istockphoto-1637223472-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["টমেটো"],
+  "protection_methods": [
+    "ফল সংগ্রহে যত্নবান হওয়া",
+    "জৈব কীটনাশক ব্যবহার",
+    "ক্ষেত পরিস্কার রাখা"
+  ]
+},
+{
+  "id": "pest-009",
+  "name": "ধানের শস্যকীট",
+  "description": "ধান গাছের পাতা ও ডাঁটা খায়, ফসল ক্ষতিগ্রস্ত হয়।",
+  "image": "https://i.ibb.co/XfLvrgxg/istockphoto-1008485240-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["ধান"],
+  "protection_methods": [
+    "আলোক ফাঁদ ব্যবহার",
+    "কার্বাইফুরান স্প্রে করা",
+    "নিয়মিত মাঠ পরিদর্শন"
+  ]
+},
+{
+  "id": "pest-010",
+  "name": "আলুর পাতা ছিদ্রকারী পোকা",
+  "description": "আলুর পাতা খেয়ে ফসলের ক্ষতি করে।",
+  "image": "https://i.ibb.co/ZpppXZb9/istockphoto-157615712-612x612.jpg",
+  "category": "pest",
+  "affected_crops": ["আলু"],
+  "protection_methods": [
+    "ম্যাঙ্কোজেব স্প্রে",
+    "জৈব কীটনাশক প্রয়োগ",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-011",
+  "name": "বেগুনের ফল ছিদ্রকারী পোকা",
+  "description": "বেগুনের ফলের মধ্যে ঢুকে ক্ষতি করে।",
+  "image": "https://i.ibb.co/XfLvrgxg/istockphoto-1008485240-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["বেগুন"],
+  "protection_methods": [
+    "ফল সংগ্রহ ও ধ্বংস করা",
+    "ফেরোমোন ফাঁদ ব্যবহার",
+    "বায়োলজিক্যাল কীটনাশক প্রয়োগ"
+  ]
+},
+{
+  "id": "pest-012",
+  "name": "ধানের পোকার আক্রমণ",
+  "description": "ধান গাছের ডাঁটা ও পাতা ক্ষতিগ্রস্ত করে।",
+  "image": "https://i.ibb.co/XfLvrgxg/istockphoto-1008485240-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["ধান"],
+  "protection_methods": [
+    "কার্বোফুরান স্প্রে",
+    "ক্ষেত পরিষ্কার রাখা",
+    "আলোক ফাঁদ ব্যবহার"
+  ]
+},
+{
+  "id": "pest-013",
+  "name": "শশার পোকা",
+  "description": "শশার গাছের পাতা খেয়ে ফসলের ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["শশা"],
+  "protection_methods": [
+    "সাবান স্প্রে করা",
+    "জৈব কীটনাশক প্রয়োগ",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-014",
+  "name": "লেবুর পোকা",
+  "description": "লেবুর গাছে পোকা আক্রমণ করলে ফল কম হয়।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["লেবু"],
+  "protection_methods": [
+    "নিয়মিত স্প্রে করা",
+    "ক্ষেত পরিষ্কার রাখা",
+    "জৈব কীটনাশক ব্যবহার"
+  ]
+},
+{
+  "id": "pest-015",
+  "name": "কলা গাছের পোকা",
+  "description": "কলা গাছের পাতা ও ফল খেয়ে ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["কলা"],
+  "protection_methods": [
+    "নিয়মিত তেল স্প্রে করা",
+    "ক্ষেত পরিষ্কার রাখা",
+    "জৈব কীটনাশক প্রয়োগ"
+  ]
+},
+{
+  "id": "pest-016",
+  "name": "গমের পোকা",
+  "description": "গমের শস্য ক্ষতিগ্রস্ত করে ফসল নষ্ট করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["গম"],
+  "protection_methods": [
+    "বীজ শোধন করা",
+    "কার্বোফুরান স্প্রে করা",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-017",
+  "name": "ধানের পানচোষা পোকা",
+  "description": "ধান গাছের রস চুষে দুর্বল করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["ধান"],
+  "protection_methods": [
+    "নিম তেল স্প্রে করা",
+    "আলোক ফাঁদ ব্যবহার",
+    "কার্বোফুরান প্রয়োগ"
+  ]
+},
+{
+  "id": "pest-018",
+  "name": "আলুর গাছের পোকা",
+  "description": "আলুর পাতা ও ডাঁটা ক্ষতিগ্রস্ত করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["আলু"],
+  "protection_methods": [
+    "জৈব কীটনাশক প্রয়োগ",
+    "ম্যাঙ্কোজেব স্প্রে",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-019",
+  "name": "বেগুনের পোকা",
+  "description": "বেগুনের গাছের পাতায় ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["বেগুন"],
+  "protection_methods": [
+    "জৈব কীটনাশক ব্যবহার",
+    "নিয়মিত মাঠ পরিদর্শন",
+    "ফেরোমোন ফাঁদ ব্যবহার"
+  ]
+},
+{
+  "id": "pest-020",
+  "name": "টমেটোর পোকা",
+  "description": "টমেটোর ফল ও পাতায় ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["টমেটো"],
+  "protection_methods": [
+    "জৈব কীটনাশক স্প্রে",
+    "ফল সংগ্রহ নিয়মিত করা",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-021",
+  "name": "ধানের পাতা কাটা পোকা",
+  "description": "ধানের পাতা কেটে ফেলে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["ধান"],
+  "protection_methods": [
+    "কার্বোফুরান স্প্রে",
+    "আলোক ফাঁদ ব্যবহার",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-022",
+  "name": "পেঁয়াজের পাতা ছিদ্রকারী পোকা",
+  "description": "পেঁয়াজের পাতায় ছিদ্র সৃষ্টি করে এবং গাছ দুর্বল করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["পেঁয়াজ"],
+  "protection_methods": [
+    "নিয়মিত মাঠ পরিস্কার রাখা",
+    "জৈব কীটনাশক প্রয়োগ",
+    "বীজ শোধন করা"
+  ]
+},
+{
+  "id": "pest-023",
+  "name": "মরিচের ফল ছিদ্রকারী পোকা",
+  "description": "মরিচের ফলের মধ্যে ঢুকে ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["মরিচ"],
+  "protection_methods": [
+    "ফল সংগ্রহ ও ধ্বংস করা",
+    "ফেরোমোন ফাঁদ ব্যবহার",
+    "জৈব কীটনাশক প্রয়োগ"
+  ]
+},
+{
+  "id": "pest-024",
+  "name": "শশার পাতা খাওয়া পোকা",
+  "description": "শশার পাতা খেয়ে ফসলের ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["শশা"],
+  "protection_methods": [
+    "সাবান স্প্রে",
+    "জৈব কীটনাশক ব্যবহার",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-025",
+  "name": "লেবুর ফল খাওয়া পোকা",
+  "description": "লেবুর ফলের ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["লেবু"],
+  "protection_methods": [
+    "ফল সংগ্রহ নিয়মিত করা",
+    "জৈব কীটনাশক প্রয়োগ",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-026",
+  "name": "কলা গাছের পাতার পোকা",
+  "description": "কলা গাছের পাতায় ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["কলা"],
+  "protection_methods": [
+    "নিয়মিত তেল স্প্রে",
+    "ক্ষেত পরিষ্কার রাখা",
+    "জৈব কীটনাশক প্রয়োগ"
+  ]
+},
+{
+  "id": "pest-027",
+  "name": "গমের পাতা খাওয়া পোকা",
+  "description": "গমের পাতা খেয়ে ফসলের ক্ষতি করে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["গম"],
+  "protection_methods": [
+    "বীজ শোধন",
+    "কার্বোফুরান স্প্রে",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-028",
+  "name": "ধানের গাছের কুঁড়ি কাটা পোকা",
+  "description": "ধানের কুঁড়ি কেটে ফেলে।",
+  "image": "https://i.ibb.co/1fL29r0g/istockphoto-466175634-612x612.jpg",
+  "category": "pest_control",
+  "affected_crops": ["ধান"],
+  "protection_methods": [
+    "কার্বোফুরান স্প্রে",
+    "আলোক ফাঁদ ব্যবহার",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+},
+{
+  "id": "pest-029",
+  "name": "আলুর ফল ছিদ্রকারী পোকা",
+  "description": "আলুর ফলের মধ্যে ঢুকে ক্ষতি করে।",
+  "image": "https://i.ibb.co/h1WPxpPD/istockphoto-1387916757-612x612.jpg",
+  "category": "pest",
+  "affected_crops": ["আলু"],
+  "protection_methods": [
+    "ম্যাঙ্কোজেব স্প্রে",
+    "জৈব কীটনাশক প্রয়োগ",
+    "ক্ষেত পরিষ্কার রাখা"
+  ]
+}
+
 ]
